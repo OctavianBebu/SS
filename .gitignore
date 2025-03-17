@@ -169,3 +169,30 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+requirements.txt
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+
+# React specific
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Jest configuration files
+jest/

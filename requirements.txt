@@ -5,3 +5,5 @@ mysql-connector-python
 alembic
 pillow
 python-dotenv
+bcrypt
+python-jose[cryptography]
